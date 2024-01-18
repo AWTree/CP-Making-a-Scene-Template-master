@@ -1,7 +1,7 @@
 class MainMenu extends Phaser.Scene {
-    constructer() {
+    constructor() {
         super('mainmenuScene')
-        console.log('MainMenu: constructer')
+        console.log('MainMenu: constructor')
     }
 
     init() {
