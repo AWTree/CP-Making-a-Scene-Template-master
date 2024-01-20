@@ -22,6 +22,6 @@ class Play extends Phaser.Scene {
 
     update() {
         // console.log('Play: update')
-        this.tomato.angleß++
+        this.tomato.angle++
     }
 }
